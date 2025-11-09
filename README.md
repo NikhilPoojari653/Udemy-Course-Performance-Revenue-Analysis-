@@ -3,6 +3,7 @@
 This project analyzes Udemy’s course dataset to uncover revenue drivers, subscriber behavior, and growth patterns.  
 It was built end-to-end in Power BI — from data cleaning to dashboarding — to demonstrate business analytics storytelling.
 
+![Image](https://github.com/user-attachments/assets/6991aada-7232-4482-aa16-dca5541741fc)
 
 ## 🧩 Objectives
 - Identify top-performing course subjects by revenue and subscribers  
