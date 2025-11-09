@@ -13,7 +13,7 @@ It was built end-to-end in Power BI — from data cleaning to dashboarding — t
 
 ## ⚙️ Tools Used
 - **Power BI Desktop** – Dashboarding & visualization  
-- **Excel / Python (optional)** – Data cleaning  
+- **Excel** – Data cleaning  
 - **DAX** – Custom metrics (Revenue, Growth, Engagement)
 
 ## 🧮 Key Metrics
