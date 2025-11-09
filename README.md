@@ -1,7 +1,7 @@
-# Udemy Course Performance & Revenue Analysis (Power BI)
+# Udemy Course Performance & Revenue Analysis 
 
-# This project analyzes Udemy’s course dataset to uncover revenue drivers, subscriber behavior, and growth patterns.  
-# It was built end-to-end in Power BI — from data cleaning to dashboarding — to demonstrate business analytics storytelling.
+This project analyzes Udemy’s course dataset to uncover revenue drivers, subscriber behavior, and growth patterns.  
+It was built end-to-end in Power BI — from data cleaning to dashboarding — to demonstrate business analytics storytelling.
 
 
 ## 🧩 Objectives
@@ -32,14 +32,10 @@
 - **Average engagement rate:** ~3.2K subscribers per course  
 
 ## 🧭 Dashboard Features
-- Interactive slicers for Subject, Level, Year, and Paid/Free filters  
+- Interactive slicers for Subject, Level, Year filters  
 - KPI cards for quick executive view  
 - Trend, distribution, and cumulative visuals  
 - Fully Udemy-branded color theme  
 
 ## 🧠 Key Learning
 This project strengthened my ability to build **insightful, recruiter-facing dashboards** that combine data storytelling, business context, and visualization clarity.
-
----
-
-### 👨‍💻 Created by: [**Nikhil Poojari**](https://www.linkedin.com/in/nikhil-poojari/)
